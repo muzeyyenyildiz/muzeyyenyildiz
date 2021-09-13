@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muzeyyenyildiz
 - 👀 I’m interested in running, coding, cooking.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React
 - 💞️ I'm looking for a Front-end position.
 - 📫 How to reach me mim.mzyn@gmail.com
 
