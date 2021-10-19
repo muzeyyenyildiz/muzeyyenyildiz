@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @muzeyyenyildiz
+Hi 👋, I'm Müzeyyen 
+
 - 👀 I’m interested in running, coding, cooking.
 - 🌱 I’m currently learning React
 - 💞️ I'm looking for a Front-end position.
