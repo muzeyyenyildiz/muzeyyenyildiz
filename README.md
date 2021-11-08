@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.linkedin.com/in/muzeyyenyildiz89" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="mzynlkdn" height="30" width="30" /></a>
 <a href="https://www.instagram.com/m.mzyn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="mzyninst" height="30" width="30" /></a>
+<a href="https://twitter.com/mzynn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mzynn" height="30" width="40" /></a>
 
 
 <h3 align="left">Technologies:</h3>
