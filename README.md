@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="photoshop" width="40" height="30"/> </a> 
+<h3 align="left"></h3>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzeyyenyildiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
