@@ -7,7 +7,7 @@
 
 
 - 👀 I’m interested in running, coding, cooking.
-- 🌱 I’m currently learning React and Redux.
+- 🌱 I’m currently learning React, Redux and .Net Core
 - 💞️ I'm looking for a Front-end position.
 - 📫 How to reach me mim.mzyn@gmail.com
 
