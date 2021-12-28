@@ -20,7 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left"></h3>
 <h3 align="left"></h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzeyyenyildiz" alt="muzeyyenyildiz" /></a></p>
+<p align="left"> <a href="href="https://github-profile-trophy.vercel.app/?username=muzeyyenyildiz&theme=buddhism&column=7&margin-w=15&margin-h=15
+"><img src="https://github-profile-trophy.vercel.app/?username=muzeyyenyildiz&theme=buddhism&column=7&margin-w=15&margin-h=15 " /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
