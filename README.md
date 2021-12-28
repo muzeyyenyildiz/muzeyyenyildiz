@@ -7,10 +7,10 @@
 
 
 - 👀 I’m interested in running, coding, cooking.
-- 👨‍💻 I'm student at Akbank Fullstack Bootcamp!
-- 🌱 I’m currently learning React, Redux and .Net Core
-- 💞️ I'm looking for a Front-end position.
-- 📫 How to reach me mim.mzyn@gmail.com
+- 👨‍💻 I'm student at **Akbank Fullstack Bootcamp!**
+- 🌱 I’m currently learning **React, Redux** and **.Net Core**
+- 💞️ I'm looking for a **Frontend** position.
+- 📫 How to reach me **mim.mzyn@gmail.com**
 
 
 <!---
