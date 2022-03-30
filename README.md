@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in running, coding, cooking.
 - 🌱 I’m currently learning **Redux, C#** and **.Net Core**
-- 💞️ I'm looking for a **Frontend** position.
+- 💞️ I'm working as a **Frontend Developer**.
 - 📫 How to reach me **mim.mzyn@gmail.com**
 
 
